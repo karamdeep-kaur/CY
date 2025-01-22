@@ -84,6 +84,6 @@
     },
     "registeredAt": "2025-01-22T17:26:16.871Z",
     "registeredBy": "arn:aws:sts::439220878973:assumed-role/voclabs/user2872930=Karam",
-    "enableFaultInjection": false,
+    
     "tags": []
 }
